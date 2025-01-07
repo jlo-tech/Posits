@@ -12,4 +12,5 @@ Gustafson, Yonemoto (2017). Beating Floating Point at its Own Game: Posit Arithm
 
 #### Disclaimer:
 
-I am not responsible for the content of the linked websites.
+1. I am not responsible for the content of the linked websites.
+2. The software is provided without any warranty and should not be used in production. This repo is for educational purposes only.
